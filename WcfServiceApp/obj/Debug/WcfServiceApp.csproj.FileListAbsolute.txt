@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\Project\WcfServiceApp\bin\Debug\WcfServiceApp.dll.config
+C:\Users\asus\Desktop\Project\WcfServiceApp\bin\Debug\WcfServiceApp.dll
+C:\Users\asus\Desktop\Project\WcfServiceApp\bin\Debug\WcfServiceApp.pdb
+C:\Users\asus\Desktop\Project\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Project\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Project\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+C:\Users\asus\Desktop\Project\WcfServiceApp\obj\Debug\WcfServiceApp.pdb

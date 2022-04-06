@@ -1,0 +1,10 @@
+C:\Users\asus\Desktop\Project\WindowApplication\bin\Debug\WindowApplication.exe.config
+C:\Users\asus\Desktop\Project\WindowApplication\bin\Debug\WindowApplication.exe
+C:\Users\asus\Desktop\Project\WindowApplication\bin\Debug\WindowApplication.pdb
+C:\Users\asus\Desktop\Project\WindowApplication\obj\Debug\WindowApplication.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Project\WindowApplication\obj\Debug\WindowApplication.Form1.resources
+C:\Users\asus\Desktop\Project\WindowApplication\obj\Debug\WindowApplication.Properties.Resources.resources
+C:\Users\asus\Desktop\Project\WindowApplication\obj\Debug\WindowApplication.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Project\WindowApplication\obj\Debug\WindowApplication.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Project\WindowApplication\obj\Debug\WindowApplication.exe
+C:\Users\asus\Desktop\Project\WindowApplication\obj\Debug\WindowApplication.pdb
